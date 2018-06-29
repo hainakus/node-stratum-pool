@@ -29,6 +29,7 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/globaltoken/node-multi-hashing.git",
+        "equihashverify": "git+https://github.com/zencashofficial/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
