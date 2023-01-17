@@ -28,7 +28,7 @@
         "url": "https://github.com/globaltoken/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/globaltoken/node-multi-hashing.git",
+        "multi-hashing": "git+https://github.com/globaltoken/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "2.6.2"
