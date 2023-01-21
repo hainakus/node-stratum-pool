@@ -31,7 +31,8 @@
         "multi-hashing": "git+https://github.com/zone117x/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
-        "async": "2.6.2"
+        "async": "2.6.2",
+        "node-disk-storage":"^0.0.6"
     },
     "engines": {
         "node": ">=0.10"
